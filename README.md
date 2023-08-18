@@ -11,8 +11,8 @@
 <img src="https://github.com/bilby1/easy-shopping/blob/main/assets/Shopping%20via%20Desktop.PNG?raw=true"/>
 <br>
 <br>
-<h2>Modo Mobile:</h2>
+<h2>Modo Mobile</h2>
 <br>
-<img src="https://github.com/bilby1/easy-shopping/blob/main/assets/Shopping%20via%20Desktop.PNG?raw=true"/>
+<img src="https://github.com/bilby1/easy-shopping/blob/main/assets/Shopping%20via%20Mobile%20-%20mobile.png?raw=true"/>
 
 
